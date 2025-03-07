@@ -29,9 +29,7 @@ function random (max, min){
 
 }
 
-/*
-* Change the image
-*/
+
 function changeImage(img, number){
 
     switch (number) {
